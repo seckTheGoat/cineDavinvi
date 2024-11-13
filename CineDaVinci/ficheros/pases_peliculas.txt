@@ -1,0 +1,170 @@
+Sala: 1, Planta: Planta 1PASE[
+PASE
+ HORA: 15 
+ MINUTOS:15
+ NUMEROS DE BUTACAS: 1
+, 
+PASE
+ HORA: 18 
+ MINUTOS:15
+ NUMEROS DE BUTACAS: 2
+]
+Título: One piece red
+Género: Animación Comedia
+Año: 2022
+Director: Goro Taniguchi
+Actores Principales: animados
+
+Sala: 2, Planta: Planta 1PASE[
+PASE
+ HORA: 15 
+ MINUTOS:15
+ NUMEROS DE BUTACAS: 3
+, 
+PASE
+ HORA: 18 
+ MINUTOS:15
+ NUMEROS DE BUTACAS: 4
+]
+Título: The Matrix Resurrections
+Género: Acción Ciencia Ficción
+Año: 2021
+Director: Lana Wachowski
+Actores Principales: Keanu Reeves, Carrie-Anne Moss, Yahya Abdul-Mateen II
+
+Sala: 3, Planta: Planta 2PASE[
+PASE
+ HORA: 15 
+ MINUTOS:15
+ NUMEROS DE BUTACAS: 5
+, 
+PASE
+ HORA: 18 
+ MINUTOS:15
+ NUMEROS DE BUTACAS: 6
+]
+Título: Soul
+Género: Animación Comedia Drama
+Año: 2020
+Director: Pete Docter
+Actores Principales: Jamie Foxx, Tina Fey, Graham Norton
+
+Sala: 4, Planta: Planta 2PASE[
+PASE
+ HORA: 15 
+ MINUTOS:15
+ NUMEROS DE BUTACAS: 6
+, 
+PASE
+ HORA: 18 
+ MINUTOS:15
+ NUMEROS DE BUTACAS: 7
+]
+Título: Pulp Fiction
+Género: Crimen Drama
+Año: 1994
+Director: Quentin Tarantino
+Actores Principales: John Travolta, Uma Thurman, Samuel L. Jackson
+
+Sala: 5, Planta: Planta 3PASE[
+PASE
+ HORA: 15 
+ MINUTOS:15
+ NUMEROS DE BUTACAS: 8
+, 
+PASE
+ HORA: 18 
+ MINUTOS:15
+ NUMEROS DE BUTACAS: 9
+]
+Título: The Shawshank Redemption
+Género: Drama Crimen
+Año: 1994
+Director: Frank Darabont
+Actores Principales: Tim Robbins, Morgan Freeman, Bob Gunton
+
+Sala: 6, Planta: Planta 2PASE[
+PASE
+ HORA: 15 
+ MINUTOS:15
+ NUMEROS DE BUTACAS: 8
+, 
+PASE
+ HORA: 18 
+ MINUTOS:15
+ NUMEROS DE BUTACAS: 9
+]
+Título: Forrest Gump
+Género: Drama Romance
+Año: 1994
+Director: Robert Zemeckis
+Actores Principales: Tom Hanks, Robin Wright, Gary Sinise
+
+Sala: 7, Planta: Planta 3PASE[
+PASE
+ HORA: 15 
+ MINUTOS:15
+ NUMEROS DE BUTACAS: 5
+, 
+PASE
+ HORA: 18 
+ MINUTOS:15
+ NUMEROS DE BUTACAS: 6
+]
+Título: Inception
+Género: Acción Ciencia Ficción
+Año: 2010
+Director: Christopher Nolan
+Actores Principales: Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page
+
+Sala: 8, Planta: Planta 3PASE[
+PASE
+ HORA: 15 
+ MINUTOS:15
+ NUMEROS DE BUTACAS: 3
+, 
+PASE
+ HORA: 18 
+ MINUTOS:15
+ NUMEROS DE BUTACAS: 4
+]
+Título: Interstellar
+Género: Ciencia Ficción Drama
+Año: 2014
+Director: Christopher Nolan
+Actores Principales: Matthew McConaughey, Anne Hathaway, Jessica Chastain
+
+Sala: 9, Planta: Planta 3PASE[
+PASE
+ HORA: 15 
+ MINUTOS:15
+ NUMEROS DE BUTACAS: 1
+, 
+PASE
+ HORA: 18 
+ MINUTOS:15
+ NUMEROS DE BUTACAS: 2
+]
+Título: The Dark Knight
+Género: Acción Crimen Drama
+Año: 2008
+Director: Christopher Nolan
+Actores Principales: Christian Bale, Heath Ledger, Aaron Eckhart
+
+Sala: 10, Planta: Planta 3PASE[
+PASE
+ HORA: 15 
+ MINUTOS:15
+ NUMEROS DE BUTACAS: 6
+, 
+PASE
+ HORA: 18 
+ MINUTOS:15
+ NUMEROS DE BUTACAS: 7
+]
+Título: The Godfather
+Género: Crimen Drama
+Año: 1972
+Director: Francis Ford Coppola
+Actores Principales: Marlon Brando, Al Pacino, James Caan
+
